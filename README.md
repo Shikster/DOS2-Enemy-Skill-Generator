@@ -1,1 +1,1 @@
-Hosted on: https://shikster.github.io/
+No longer hosted, feel free to copy the html
